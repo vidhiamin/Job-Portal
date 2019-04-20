@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JobCatalog>
+    <Job category="Internship" id="1" >
+        <companyname>Infobizzs</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Software Developer</jobposition>
+		<jobdescription>Hands on experience in Html, CSS, JavaScript, .Net , C# , etc.</jobdescription>
+		<salary>65000</salary>
+		<state>Connecticut</state>
+    </Job> 
+	<Job category="Internship" id="2" >
+        
+        <companyname>Infochip</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Software Developer</jobposition>
+		<jobdescription>Design of the overall architecture of the web application, Implementation of a robust set of services and APIs to power the web application</jobdescription>
+		<salary>100000</salary>
+		<state>California</state>
+	   
+    </Job> 
+	<Job category="Internship" id="3" >
+        
+		<companyname>TCS</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Software Developer</jobposition>
+		<jobdescription>Hands-on knowledge of Object-Oriented Design and Development and Web Services protocols such as REST, SOAP and API design for extensibility and portability.</jobdescription>
+		<salary>20000</salary>
+		<state>Ohio</state>
+	   
+    </Job> 
+	<Job category="Internship" id="4" >
+        
+		<companyname>Exxat</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Software Developer</jobposition>
+		<jobdescription>Java/JEE, Spring boot, AngularJS, Bootstrap, JQuery, JSON, XML, NoSQL JavaScript, JQuery, GWT, JSON, Junit</jobdescription>
+		<salary>20000</salary>
+		<state>Illinois</state>
+	   
+    </Job> 
+	
+
+	
+	
+	
+	 <Job category="Internship" id="5" >
+        
+		<companyname>Cummians</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Game Developer</jobposition>
+		<jobdescription>Experience with Unity 3D game engine at least 3+ years Familiar working with C, C++, C#, Direct X, OpenGL</jobdescription>
+		<salary>55000</salary>
+		<state>Florida</state>
+	   
+    </Job>
+	<Job category="Internship" id="6" >
+        
+		<companyname>Caterpiller</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Marketing Manager</jobposition>
+		<jobdescription>Define and execute the customer engagement strategy. This would involve creating strategic, customer-facing programs to achieve engagement, retention, winback and upsell goals.</jobdescription>
+		<salary>35000</salary>
+		<state>NewYork</state>
+	   
+    </Job> 
+	<Job category="Internship" id="7" >
+        
+		<companyname>TechMahindra</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Game Developer</jobposition>
+		<jobdescription>Strong experience with mobile testing on iOS and appstore requirements.</jobdescription>
+		<salary>23000</salary>
+		<state>Illinois</state>
+	   
+    </Job> 
+	<Job category="Internship" id="8" >
+        
+     <companyname>Walmart</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Principal Data Scientist</jobposition>
+		<jobdescription>Manage and execute entire projects from start to finish including cross-functional project management, data gathering and manipulation, analysis and modeling, and communication of insights and recommendations.</jobdescription>
+		<salary>14000</salary>
+		<state>Florida</state>
+	   
+	</Job>
+	
+		<Job category="Internship" id="9" >
+        
+     <companyname>Express</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Sales Assistant</jobposition>
+		<jobdescription>The Sales Assistant will be responsible for taking notes and pictures, and investigating new product before purchasing. This person will also be responsible for overseeing the project and installing the work machines.</jobdescription>
+		<salary>12000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+	<Job category="Internship" id="10" >
+        
+     <companyname>Exabeam</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Internship</experiencelevel>
+		<jobposition>Infrastructure Engineer</jobposition>
+		<jobdescription>The Cloud DevOps Engineer will collaborate with other engineering teams create products from conception to launch, with service operational responsibility in a 24x7.</jobdescription>
+		<salary>53000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+
+	
+	
+	
+	<Job category="EntryLevel" id="11" >
+        
+		<companyname>Conduent</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Data Entry Operator</jobposition>
+		<jobdescription>Responsible for providing support to business operations such as front end, image and data capture, and / or document / transaction content management. Provides administrative support to business operations by performing processing tasks such as data entry and scanning, or similar activities</jobdescription>
+		<salary>45000</salary>
+		<state>Connecticut</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="12" >
+        
+     <companyname>Icertis</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Functional Consultant</jobposition>
+		<jobdescription> Actively participate and contribute in requirement gathering, functional design, work closely with Engineering, Quality Assurance and Support during the implementation life cycle.</jobdescription>
+		<salary>80000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="13" >
+        
+     <companyname>TransPerfect</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Account Manager</jobposition>
+		<jobdescription>Develop prospective clients through several strategies including internet research, trade show lists, referrals, various professional directories and personal investigation</jobdescription>
+		<salary>67000</salary>
+		<state>Connecticut</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="14" >
+        
+     <companyname>Santa Barbara</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Inside Sales Engineer</jobposition>
+		<jobdescription>Develop and maintain effective customer relations with purchasing and scientists within the assigned territories</jobdescription>
+		<salary>30000</salary>
+		<state>Ohio</state>	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="15" >
+        
+     <companyname>Planet Interactive</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Production Designer</jobposition>
+		<jobdescription>Experience with creating digital banners and print banners, brochures, print ads, outdoor banners, brand guidelines, collateral marketing</jobdescription>
+		<salary>30000</salary>
+		<state>Connecticut</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="16" >
+        
+     <companyname>McCain Foods</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Sales Representative</jobposition>
+		<jobdescription>In this position you will develop and expand McCain business within local LLOs, Independent Operators and Local Multi Unit accounts to achieve budgeted volume and GP targets. You will be selling McCain Potato and Snack Food products on a direct basis to key restaurant operators within the assigned territory</jobdescription>
+		<salary>30000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="17" >
+        
+     <companyname>Invenergy LLC</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Power Scheduler Base</jobposition>
+		<jobdescription>Assisting others in 24 hour center with monitoring and resetting of wind turbines, outage scheduling, and communications with power markets, customers, and generating sites</jobdescription>
+		<salary>60000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="EntryLevel" id="18" >
+        
+     <companyname>Tanner Health System</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Nursing Technician </jobposition>
+		<jobdescription>The Nursing Technician performs basic nursing care and procedures under the direction of a Registered Nurse or Licensed Practical Nurse.</jobdescription>
+		<salary>30000</salary>
+		<state>California</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="19" >
+        
+     <companyname>Addison Group</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Recruitment Specialist</jobposition>
+		<jobdescription>Identify, network, and sell to potential candidates/job seekers through creative matching strategies, including the use of our internal database, job boards, and social networking</jobdescription>
+		<salary>70000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+	<Job category="EntryLevel" id="20" >
+        
+     <companyname>Calvin Klein</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Entry Level</experiencelevel>
+		<jobposition>Associate Designmer</jobposition>
+		<jobdescription>Assist Senior Designer– develops sketches based on the Senior Designers initial sketches and concepts. Maintain the progression of design in the Senior Designer’s absence.</jobdescription>
+		<salary>30000</salary>
+		<state>Florida</state>
+	   
+	</Job> 
+	
+
+	
+	<Job category="Associate" id="21" >
+        
+     <companyname>SOS International LLC</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Escort-Laborer</jobposition>
+		<jobdescription>SOS International LLC (SOSi) is seeking an Escort (TS/SCI) to perform facility escort duties for secure facilities.  General laborer duties will be assigned when facility escort duties are not needed</jobdescription>
+		<salary>30000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+	<Job category="Associate" id="22" >
+        
+     <companyname>Bedrock Detroit</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Accountant</jobposition>
+		<jobdescription>Lead and coordinate daily activity for construction projects to contract and invoice review including reconciliations</jobdescription>
+		<salary>40000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+		<Job category="Associate" id="23" >
+        
+     <companyname>501 Auctions</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Account Execuitive</jobposition>
+		<jobdescription>Maintains, increases, and maximizes the sales volume of accounts and market share by developing sales strategies for every contact and prospect using analysis and account penetration.</jobdescription>
+		<salary>30000</salary>
+		<state>California</state>
+	   
+	</Job>
+	
+		<Job category="Associate" id="24" >
+        
+     <companyname>Clique</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Editor, Fashion</jobposition>
+		<jobdescription>Track analytics on multiple story KPIs to 1) ensure team, personal, and direct reports’ goals are met and 2) capitalize on emerging traffic opportunities with the aim of experimenting boldly, failing fast, and creatively iterating around frameworks that perform </jobdescription>
+		<salary>30000</salary>
+		<state>Ohio</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="25" >
+        
+     <companyname>Accenture Services</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Software Developer</jobposition>
+		<jobdescription>Experience with web API development including SOAP, REST, and RPC.</jobdescription>
+		<salary>45000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="26" >
+        
+     <companyname>Sierra Pacific</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Sales Representative</jobposition>
+		<jobdescription>Perform routine showroom maintenance responsibilities as designated such as merchandising, inventory, and sample maintenance.</jobdescription>
+		<salary>30000</salary>
+		<state>Florida</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="27" >
+        
+     <companyname>Hotwire</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Software Engineer</jobposition>
+		<jobdescription>You provide expertise in the technical design efforts of various initiatives, ensuring the system design meets scalability and performance requirements.</jobdescription>
+		<salary>26000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="28" >
+        
+     <companyname>Colle McVoy</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Content Strategist</jobposition>
+		<jobdescription>Demonstrate interest in, and past success proving, how digital and social data correlate to softer metrics like brand awareness and business results such as sales</jobdescription>
+		<salary>78000</salary>
+		<state>California</state>
+	   
+	</Job>
+	
+	
+		<Job category="Associate" id="29" >
+        
+     <companyname>Vevo</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Data Scientist</jobposition>
+		<jobdescription>Work as an embedded team member of one or more product ‘squads’ focused on tackling some of Vevo’s most important challenges</jobdescription>
+		<salary>60000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+	<Job category="Associate" id="30" >
+        
+     <companyname>BlueCrew</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Associate</experiencelevel>
+		<jobposition>Sales Development</jobposition>
+		<jobdescription>Knowledgeable on all aspects of BlueCrew technology, operations, and pricing models</jobdescription>
+		<salary>78000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+
+	
+	
+	<Job category="Senior" id="31" >
+        
+     <companyname>JMA Wireless</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>CNC Manager</jobposition>
+		<jobdescription>Develop the manufacturing plan and establish procedures for maintaining high utilization of the CNC manufacturing operation</jobdescription>
+		<salary>26000</salary>
+		<state>Florida</state>
+	   
+	</Job>
+	
+		<Job category="Senior" id="32" >
+        
+     <companyname>Sanchez Oil Corporation</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Financial Analyst</jobposition>
+		<jobdescription>Experience using the Microsoft suite of products; including Word, Excel, Outlook, and PowerPoint</jobdescription>
+		<salary>89000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+	
+		<Job category="Senior" id="33" >
+        
+     <companyname>Showtime Networks</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Director Media Architecture</jobposition>
+		<jobdescription>Oversee staff at SNI’s Long Island NOC and NYC office that are responsible for design, implementation and monitoring of On-Demand and Live distribution media supply chain and workflow solutions.</jobdescription>
+		<salary>90000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="34" >
+        
+     <companyname>SelectOne</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Director of Applications</jobposition>
+		<jobdescription>Deep experience working to plan, ‘build’ and maintain complex cloud-based application models in any of a range of commercial sectors (i.e., not limited to banking and finance</jobdescription>
+		<salary>34000</salary>
+		<state>Florida</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="35" >
+        
+     <companyname>Infinity Consulting</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Controller</jobposition>
+		<jobdescription>Responsible for implementing and maintaining a system of internal controls in compliance with all financial policies and US GAAP </jobdescription>
+		<salary>89000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="36" >
+        
+     <companyname>Magotteaux</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Plant Manager</jobposition>
+		<jobdescription>Coordinates plant production, quality, and shipping in an efficient manner in accordance with policies, principles, and procedures established by the Company</jobdescription>
+		<salary>95000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="37" >
+        
+     <companyname>Experian</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Director, Content Marketing</jobposition>
+		<jobdescription>Effective writing and presenting copy and content for multiple channels – websites, SEM, email, direct, product sheets, social, whitepapers</jobdescription>
+		<salary>80000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="38" >
+        
+     <companyname>Birchbox</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Customer Service Director</jobposition>
+		<jobdescription>Development, Implementation and consistent execution of best-in-class operations and customer experience standards</jobdescription>
+		<salary>67000</salary>
+		<state>Florida</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="39" >
+        
+     <companyname>Interactions LLC</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Software Engineering</jobposition>
+		<jobdescription>Managing Engineering teams, both Dev and QA, contributing to the Interactions AI Platform offerings.</jobdescription>
+		<salary>90000</salary>
+		<state>California</state>
+	   
+	</Job>
+	
+	
+		<Job category="Senior" id="40" >
+        
+     <companyname>Stephens Little Inc</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Senior</experiencelevel>
+		<jobposition>Director of Accounting</jobposition>
+		<jobdescription>Oversee all accounting functions including: general accounting, cash, payroll, accounts payable, fixed asset, debt, equity, internal and external reporting, SOX control compliance, systems automation and process improvement, and special projects.</jobdescription>
+		<salary>70000</salary>
+		<state>Texas</state>
+	   
+	</Job>
+	
+	
+	
+	<Job category="Director" id="41" >
+        
+     <companyname>WS Development</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Budgeting</jobposition>
+		<jobdescription>Responsible for the development of a complete and accurate budget throughout all phases of the project including concept budget, schematic design, design development and final project budget. Develop processes for budget standardization and improvement</jobdescription>
+		<salary>80000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="42" >
+        
+     <companyname>Pelton Interactive</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director, Brand Marketing</jobposition>
+		<jobdescription>Develop seasonal and monthly marketing and brand strategies targeting members, based on Brand, Member, Cultural, Product and Campaign insights</jobdescription>
+		<salary>90000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="43" >
+        
+     <companyname>Luxury Brand Holding</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Merchandising</jobposition>
+		<jobdescription>Develop merchandising strategies that are incorporated into the annual and seasonal business plans to achieve sales and profit plans for specific categories</jobdescription>
+		<salary>90000</salary>
+		<state>Texas</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="44" >
+        
+     <companyname>MDLIVE</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Clinical Director</jobposition>
+		<jobdescription>Responsible for the daily management and performance of the BH department and the operational areas that support the MDL BH program</jobdescription>
+		<salary>50000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="45" >
+        
+     <companyname>Checkout.com</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Customer Success Manager</jobposition>
+		<jobdescription>Understanding the intricacies of our products, services and partner networks thoroughly to leverage as needed to meet our merchants’ needs</jobdescription>
+		<salary>73000</salary>
+		<state>Texas</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="46" >
+        
+     <companyname>StreerID</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Product Support Engineer</jobposition>
+		<jobdescription>Supervise shift resources includes the oversight of off shore consultants to ensure resources are properly trained and workloads are properly assigned.</jobdescription>
+		<salary>67000</salary>
+		<state>Illinois</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="47" >
+        
+     <companyname>Noregon System</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Data Analytics</jobposition>
+		<jobdescription>Work closely with executive leadership, business development, product development and sales to understand business objectives and client analytics needs.</jobdescription>
+		<salary>79000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="48" >
+        
+     <companyname>Tanium</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Accounts</jobposition>
+		<jobdescription>Maintain and develop new relationships within assigned accounts through lead generation, developing and qualifying pipeline</jobdescription>
+		<salary>85000</salary>
+				<state>Texas</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="49" >
+        
+     <companyname>Clover Health</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Director of Enrollment</jobposition>
+		<jobdescription>Develop and implement strategies to ensure high quality, timely, and efficient membership services throughout the operation. Specifically you will focus on membership enrollment, maintenance and premium billing verticals.</jobdescription>
+		<salary>80000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Director" id="50" >
+        
+     <companyname>SuchiFoams</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Director</experiencelevel>
+		<jobposition>Network Admin</jobposition>
+		<jobdescription>You have to fix the routhing table and network configuration.</jobdescription>
+		<salary>58000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+
+	
+	<Job category="Execuitive" id="51" >
+        
+     <companyname>TalkWalker</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Head Of Sales</jobposition>
+		<jobdescription>Develop new strategies, tactics, and plans for future growth of company’s prospects</jobdescription>
+		<salary>90000</salary>
+				<state>Ohio</state>
+	   
+	</Job>
+	
+		<Job category="Execuitive" id="52" >
+        
+     <companyname>Colle McVoy</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Creative Director- Design</jobposition>
+		<jobdescription>Work closely with cross-functional teams to solve complex problems and creating strategic concepts and following through to meticulous execution</jobdescription>
+		<salary>50000</salary>
+		<state>Ohio</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="53" >
+        
+     <companyname>KIND</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Director of Logistics</jobposition>
+		<jobdescription>Manage all aspects of the relationship and delivery of KIND’s 3PL partners to deliver KIND’s quality, safety, service, and cost goals.</jobdescription>
+		<salary>34000</salary>
+		<state>Texas</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="54" >
+        
+     <companyname>Jukin Media</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Director of Data Analytics</jobposition>
+		<jobdescription>Lead monthly business updates and present actionable insights to C-level executives</jobdescription>
+		<salary>80000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="55" >
+        
+     <companyname>Corporate Controller</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Corporate Controller</jobposition>
+		<jobdescription>Manage and direct finance/accounting team operations, including general ledger, accounts payable, billings and collections, state sales tax payments and payroll</jobdescription>
+		<salary>90000</salary>
+		<state>Colorado</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="56" >
+        
+     <companyname>GlobalHealth, Inc</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Senior Accountant</jobposition>
+		<jobdescription>Calculates and analyzes premium revenue for all lines of business, and posts related entries to the general ledger</jobdescription>
+		<salary>67000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="57" >
+        
+     <companyname>StreetShares</companyname>
+		<jobtype>Contract</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Business Development</jobposition>
+		<jobdescription>Develop and cultivate relationships with government contractors throughout the country over a sales cycle that can range up to 10 months. Aggressively work opportunities through the sales funnel. Close deals.</jobdescription>
+		<salary>35000</salary>
+				<state>Ohio</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="58" >
+        
+     <companyname>WeWork</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>People Operations</jobposition>
+		<jobdescription>Develop, operationalize, and deploy people strategy covering: performance management; learning and development; employee engagement; retention</jobdescription>
+		<salary>40000</salary>
+		<state>Ohio</state>
+	   
+	</Job>
+	
+	
+		<Job category="Execuitive" id="59" >
+        
+     <companyname>Influenster</companyname>
+		<jobtype>Part-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Director of Marketing</jobposition>
+		<jobdescription>Together with the product team, educate both internal (staff) and external (members) stakeholders about our existing product features and their benefits through skill learning platforms and communities.</jobdescription>
+		<salary>30000</salary>
+		<state>NewYork</state>
+	   
+	</Job>
+	
+	
+	<Job category="Execuitive" id="60" >
+        
+     <companyname>Rigel</companyname>
+		<jobtype>Full-time</jobtype>
+		<experiencelevel>Execuitive</experiencelevel>
+		<jobposition>Regulatory Affairs</jobposition>
+		<jobdescription>Develop regulatory strategies for assigned programs in collaboration with Regulatory senior management and through analysis of guidance and assessment of drug pipeline.</jobdescription>
+		<salary>50000</salary>
+		<state>Illinois</state>
+	   
+	</Job>  
+	
+
+</JobCatalog>
+

@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JobBoard</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> 
+
+</head>
+<body onload= "init()">
+<div id="container">
+<script type = "text/javascript" src="searchjavascript.js"> </script>
+
+    <header>
+    	<h1><a href="/">Job<span>Board</span></a></h1>
+        <h2>Let us build a job for you</h2>
+				<div class="search">
+		<form name = "AutoCompleteServlet" action="AjaxAutoCompleteServlet">
+			<div name = "searchbar">
+			<span  class="glyphicon glyphicon-search"></span> 
+				<input type="text" name="searchid" class = "input" id= "searchid" placeholder="Search Products here.." onkeyup="doCompletion()" />
+				<div id="auto-row">
+					<table border="0" id="complete-table" class="popupbox"></table>
+				</div>
+			</div>
+			
+		</form>
+		</div>
+    </header>
+    <nav>
+    	<ul>
+        	<li class="start selected"><a href="./Home">Home</a></li>
+            <li class="start selected"><a href="./ViewOrder">View Application</a></li>
+            <li><a href="./Blogs">Blogs</a></li>
+            <li class="#"><a href="./LogoutServlet">Logout</a></li>
+			<li class="#"><a href="#">Welcome!</a></li>
+        </ul>
+    </nav>
+
+	<img src="Html\images\image.png" alt=""  />  

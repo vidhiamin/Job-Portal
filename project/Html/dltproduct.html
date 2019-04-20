@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JobBoard</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> 
+</head>
+<body>
+
+		<div id="content">
+		<h2 align="center" margin-top="60px">Please Mention job id below</h2>
+		<form action="deleteproduct" method="get" class="my-form">
+		 <div class="container username">
+			<div class="form-group">
+			<label><b>Job id</b></label>
+			<input type="text" class="form-control" placeholder="Enter job id" id="exampleInputEmail1" name="pid" required>
+			</div>
+			
+			
+			<label><b>Job Category</b></label>
+			<select class="form-group" name = "category">
+			   <option value= "Internship" >Internship</option>
+			   <option value = "EntryLevel">Entry Level</option>
+			   <option value = "Associate" >Associate</option>
+			   <option value = "Senior" >Senior</option>
+			   <option value = "Director" >Director</option>
+			   <option value = "Execuitive" >Execuitive</option>
+			</select>
+		
+			
+			</div>
+			
+			<div class="username1">			
+			<button class="btn btn-primary" type="submit" value="login" id="submitButton" >Withdraw Job</button>
+			</div>
+			
+	
+</form>		
+</div>
+</body>
+</html>

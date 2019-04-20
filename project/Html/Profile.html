@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JobBoard</title>
+<link rel="stylesheet" href="Html/styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> 
+</head>
+<body>
+
+		<div id="content">
+		<h2 align="center" margin-top="60px">Edit Profile</h2>
+		<form action="ProfileParser" method="get" class= "my-form">
+		
+		<div class="form-group">
+		<label for="exampleInputEmail1">Username</label>
+		<input type="email" class="form-control" id="username" name = "username" placeholder="Enter username">
+		</div>
+		
+		<div class="form-group">
+		<label for="exampleInputEmail1">First Name</label>
+		<input type="text" class="form-control" id="firstname" name = "firstname" placeholder="Enter First Name">
+		</div>
+		
+		<div class="form-group">
+		<label for="exampleInputPassword1">Last Name</label>
+		<input type="text" class="form-control" id="lastname" name = "lastname" placeholder="Enter Last Name">
+		</div>
+		
+		<div class="form-group">
+		<label for="exampleInputPassword1">Highest Education</label>
+		<input type="text" class="form-control" id="education" name = "education" placeholder="Enter Highest Education">
+		</div>
+		
+		
+		<!-- <div class="form-group">
+		<label for="exampleFormControlSelect1">Highest Education</label>
+		<select class="form-control" id="education" name = "education">
+		<option>Phd</option>
+		<option>Masters</option>
+		<option>Bachelors</option>
+		<option>High School</option>
+		</select>
+		</div>
+		 -->
+		
+	
+		
+		<!-- <div class="form-group">
+		<label for="exampleFormControlTextarea1">Summary:</label>
+		<textarea class="form-control" id="exampleFormControlTextarea1" id="summary" name = "summary" rows="3" required></textarea>
+		</div> -->
+		
+		<div class="form-group">
+		<label for="exampleInputPassword1">Summary:</label>
+		<input type="text" class="form-control" id="summary" name = "summary" placeholder="Enter Summary">
+		</div>
+		
+		
+		
+		
+		<div class="form-group">
+		<h4 align= "rigt">Experience:</h4>
+		
+		<label for="companyname">Comapny Name</label>
+		<input type="text" class="form-control" id="excompany" name = "excompany" placeholder="Enter Company Name">
+		</div>
+		
+		<div>
+		<label for="companyname">Experience Period</label>
+		<input type="text" class="form-control" id="experiod" name = "experiod" placeholder="Enter Experience Period">
+		</div>
+		
+		<!-- <div class="form-group">
+		<label for="exampleInputPassword1">Experience Period:</label>
+		<select class="form-control" id="experiod" name = "experiod">
+		<option>1</option>
+		<option>2</option>
+		<option>3</option>
+		<option>4</option>
+		<option>5</option>
+		<option>6</option>
+		<option>7</option>
+		<option>8</option>
+		<option>9</option>
+		<option>10</option>
+		<option>11</option>
+		<option>12</option>
+		<option>13</option>
+		<option>14</option>
+		<option>15</option>
+		<option>16</option>
+		<option>17</option>
+		<option>18</option>
+		<option>19</option>
+		<option>20</option>
+		</select>
+		</div> -->
+		
+		<!-- <div class="form-group">
+		<label for="exampleInputPassword1">Skills:</label>
+		<textarea rows=\"4\" cols=\"50\" name =\"Summary\" required>
+		</textarea>
+		</div> -->
+		
+		<div class="form-group">
+		<label for="exampleFormControlTextarea1">Skills:</label>
+		<input type="text" class="form-control" id="skills" name = "skills" placeholder="Enter your skills">
+		</div>
+		
+		
+		<div class="form-group">
+		<label for="exampleFormControlTextarea1">Certifications/Awards:</label>
+		<input type="text" class="form-control" id="certifications" name = "certifications" placeholder="Enter Certifications/Awards">
+		</div>
+		
+		
+		<div class="form-group">
+		<label for="exampleFormControlTextarea1">Projects with Description:</label>
+		<input type="text" class="form-control" id="projects" name = "projects" placeholder="Enter Projects">
+		</div>
+		
+		
+		
+		<button type="submit" class="btn btn-primary" value = "login">Update Profile</button>		
+		
+		
+</form>		
+</div>
+</body>
+</html>

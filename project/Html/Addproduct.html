@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JobBoard</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> 
+</head>
+<body>
+
+		<div id="content">
+		<h2 align="center" margin-top="60px">Add Job Details below</h2>
+		<form action="productparser" method="get" class="my-form">
+		 <div class="container username">
+			
+			<div class="form-group">
+			<label><b>Job id</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter job id" name="id" required>
+			</div>
+			
+			<div class="form-group">
+			<label><b>Name</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter company name" name="companyname" required>
+			</div>
+			
+			<label><b>Category</b></label>
+			<select class="form-group" name = "Category">
+			   <option value= "Internship" >Internship</option>
+			   <option value = "EntryLevel">Entry Level</option>
+			   <option value = "Associate" >Associate</option>
+			   <option value = "Senior" >Senior</option>
+			   <option value = "Director" >Director</option>
+			   <option value = "Execuitive" >Execuitive</option>
+			</select>
+			
+			<div class="form-group">
+			<label><b>Jobtype</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter jobtype" name="jobtype" required>
+			</div>
+			
+			<div class="form-group">
+			<label><b>Jobposition</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter jobposition" name="jobposition" required>
+			</div>
+			
+			<div class="form-group">
+			<label><b>JobDescription</b></label>
+			<input type="text" class="form-control"id="exampleInputEmail1"  placeholder="Enter jobdescription" name="jobdescription" required>
+			</div>
+			
+			<div class="form-group">
+			<label><b>State</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1"  placeholder="Enter state" name="state" required>
+			</div>
+			
+			
+			<div class="form-group">
+			<label><b>Salary</b></label>
+			<input type="text" class="form-control"id="exampleInputEmail1"  placeholder="Enter salary" name="salary" required>
+			</div>
+			
+			<div class="form-group">
+			<label><b>ExperienceLevel</b></label>
+			<input type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter experience level" name="experiencelevel" required>
+			</div>
+			
+			<button type="submit" class="btn btn-primary" value = "login" id="submitButton">Add Job</button>
+			
+			
+		</div>
+</form>		
+</div>
+</body>
+</html>
